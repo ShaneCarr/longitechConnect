@@ -4,7 +4,7 @@ See also the article on <https://lekensteyn.nl/logitech-unifying.html>
 
 Logitech documents
 
-I have learned a bit from the kernel source code hid-logitech-dj, but the
+---- kernel source code hid-logitech-dj, but the
 "official" Logitech specification (HID++ 1.0) was much more useful. These
 documents can be found on <https://lekensteyn.nl/files/logitech/>.
 
